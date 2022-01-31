@@ -12,9 +12,9 @@ body {
     border-left: 1px solid black;
     padding: 10px;
   }
-  
+
   .jumbotron {
-    text-align:center;
+    text-align:justify;
     background-color: transparent;
     color: black;
     border-radius: 0;
@@ -57,7 +57,7 @@ body {
     color: white;
   }
   
-  .saveBtn {
+  /*.saveBtn {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -68,5 +68,17 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
+  }*/
+
+  .container {
+      padding-bottom: 100px;
+      padding-top: 25px;
   }
-  
+
+  .save {
+      float: right;
+  }
+
+  .list-group-item {
+      margin: auto;
+  }
