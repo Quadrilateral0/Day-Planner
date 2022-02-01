@@ -14,15 +14,11 @@ body {
   }
 
   .jumbotron {
-    text-align:center;
+    text-align: center;
     background-color: transparent;
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
-  }
-  
-  .description {
-    white-space: pre-wrap;
   }
   
   .time-block {
@@ -43,7 +39,7 @@ body {
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #9e9b9b;
     color: white;
   }
   

@@ -1,6 +1,6 @@
-# Code Quiz
+# Day Planner
 ## Description
-For this project, I created a day planner application. This application demonstrates my skills with third-party APIs.
+For this project, I created a day planner application. This application demonstrates my skills with third-party APIs, including Bootstrap, Moment.js, and JQuery.
 
 ## Table of Contents
 - [Usage](#usage)
@@ -10,9 +10,9 @@ For this project, I created a day planner application. This application demonstr
 - [License](#license)
 
 ## Usage
-Visit my [Day Planner here](https://quadrilateral0.github.io/Day-Planner/). The following image shows the web application's appearance and functionality:
+Visit my [Day Planner here](https://quadrilateral0.github.io/Day-Planner/). The following animation shows the web application's appearance and functionality:
 
-![Screenshot of Completed Website](assets/images/screenshot-day-planner.png)
+![GIF Screenshot of Completed Website](assets/images/scheduler-animation.gif)
 
 ## User Story
 
@@ -41,6 +41,9 @@ THEN the saved events persist
 ```
 ## Credits
 A thanks to my resources:
+- [Moment.js](https://momentjs.com/)
+- [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+- [JQuery](https://learn.jquery.com/)
 - [GoFullPage - Full Page Screen Capture Chrome Extension](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl/related)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
