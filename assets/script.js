@@ -1,6 +1,11 @@
-//Dynamic update of current date
-var today = moment();
-$("#currentDay").text(today.format("MMMM Do, YYYY"));
+//Dynamic update of current date and time
+function currentDay() {
+  document.getElementById("currentDay").innerHTML = moment().format("dddd, MMMM Do, YYYY, h:mm:ss a");
+}
+setInterval(currentDay, 1000);
+
+//Set block color based on time of day
+
 
 //Save text for each time slot to local storage and maintain display text on page refresh
 //8am
